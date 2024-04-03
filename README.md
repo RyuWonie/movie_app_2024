@@ -1,3 +1,0 @@
-# movie_app_2024
-
-React JS Fundamentals Course 2024
